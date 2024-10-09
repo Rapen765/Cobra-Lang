@@ -1,0 +1,5 @@
+[
+   function = fn a -> fn b -> a + b;
+
+    function(10)(20)
+]
